@@ -1,0 +1,109 @@
+/*Pallete(s) being used/considered
+    Coolors: 
+        Purple Raindrops
+        Vibrant Tones:
+            
+*/
+:root {
+    /*Mine?*/
+    --a0:#ff6b35;
+    --b0:#f7c59f;
+    --c0:#efefd0;
+    --d0:#86cb92;
+    --e0:#71b48d;
+    --f0:#488da2;
+    --g0:#4459b5;
+    --h0:#502ea0;
+    --i0:#7e11c7;
+    --j0:#f322c2;
+
+    /*#845ec2 - Friend palette*/
+    --a1:#845ec2;
+    --b1:#c197ff;
+    --c1:#00c9a7;
+    --d1:#005b44;
+
+    /*00c9a7 - matching gradient*/
+    --a2: #00c9a7;
+    --b2: #00b6bd;
+    --c2: #00a0c7;
+    --d2: #0088c2;
+    --e2: #496ead;
+    --f2: #68558d;
+
+    /*00c9a7 - Matching palette*/
+    --a3: #00c9a7;
+    --b3: #354b45;
+    --c3: #98b0a9;
+    --d3: #c2a3fd;
+    --e3: #8a6fc4;
+
+    /*#00c9a7 - skip shade gradient*/
+    --a4: #00c9a7;
+    --b4: #66D79B;
+    --c4: #9CE492;
+    --d4: #CDEE8F;
+
+    /*#00c9a7 - collective*/
+    --a5: #00c9a7;
+    --b5: #00A6AB;
+    --c5: #008FF1;
+}
+
+body {
+    margin:0px;
+}
+
+
+.layers {
+    background:var(--a0);
+    height:100vh;
+    padding:0px;
+    z-index:0;
+    align-items: bottom;
+    .layer1 {
+        background-color:var(--b0);
+        height:90vh;
+        z-index:1;
+        .layer2 {
+            background:var(--c0);
+            height:80vh;
+            z-index:2;
+            .layer3 {
+                background:var(--d0);
+                height:70vh;
+                z-index:3;
+                .layer4 {
+                    background:var(--e0);
+                    height:60vh;
+                    z-index:4;
+                    .layer5 {
+                        background:var(--f0);
+                        height:50vh;
+                        z-index:5;
+                        .layer6 {
+                            background:var(--g0);
+                            height:40vh;
+                            z-index:6;
+                            .layer7 {
+                                background:var(--h0);
+                                height:30vh;
+                                z-index:7;
+                                .layer8 {
+                                    background:var(--i0);
+                                    height:20vh;
+                                    z-index:8;
+                                    .layer9 {
+                                        background:var(--j0);
+                                        height:10vh;
+                                        z-index:9;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
