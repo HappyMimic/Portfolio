@@ -1,0 +1,20 @@
+W3 Schools
+https://www.w3schools.com/graphics/svg_circle.asp
+https://www.w3schools.com/css/css_external.asp
+https://www.w3schools.com/cssref/pr_pos_z-index.php
+
+Mdn_
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@import
+https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/defs
+
+SVG Tutorial
+https://svg-tutorial.com/svg/arc
+
+Tutorials Point
+https://www.tutorialspoint.com/dtd/dtd_entities.htm
+
+Quackit
+https://www.quackit.com/xml/tutorial/dtd_parameter_entities.cfm
+
+Martien van Steenbergen on Observable
+https://observablehq.com/@martien/svg-with-a-transparent-hole
