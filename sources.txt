@@ -2,10 +2,22 @@ W3 Schools
 https://www.w3schools.com/graphics/svg_circle.asp
 https://www.w3schools.com/css/css_external.asp
 https://www.w3schools.com/cssref/pr_pos_z-index.php
+https://www.w3schools.com/css/css_position.asp
+https://www.w3schools.com/css/css_pseudo_classes.asp
+https://www.w3schools.com/cssref/css_ref_pseudo_classes.php
+https://www.w3schools.com/cssref/sel_after.php
+https://www.w3schools.com/cssref/css_ref_pseudo_elements.php
+
+GeeksForGeeks
+https://www.geeksforgeeks.org/css/how-to-change-the-position-of-scrollbar-using-css/
 
 Mdn_
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@import
 https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/defs
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/Pseudo-classes
+
+CSS In Real Life
+https://css-irl.info/preventing-overscroll-bounce-with-css/
 
 SVG Tutorial
 https://svg-tutorial.com/svg/arc
@@ -18,3 +30,6 @@ https://www.quackit.com/xml/tutorial/dtd_parameter_entities.cfm
 
 Martien van Steenbergen on Observable
 https://observablehq.com/@martien/svg-with-a-transparent-hole
+
+Stack overflow
+https://stackoverflow.com/questions/40676648/how-can-i-position-one-element-below-another

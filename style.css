@@ -1,66 +1,19 @@
-/*Pallete(s) being used/considered
-    Coolors: 
-        Purple Raindrops
-        Vibrant Tones:
-            
-*/
 :root {
-    /*Mine?*/
-    --a0:#ff6b35;
-    --b0:#f7c59f;
-    --c0:#efefd0;
-    --d0:#86cb92;
-    --e0:#71b48d;
-    --f0:#488da2;
-    --g0:#4459b5;
-    --h0:#502ea0;
-    --i0:#7e11c7;
-    --j0:#f322c2;
-
-    /*#845ec2 - Friend palette*/
-    --a1:#845ec2;
-    --b1:#c197ff;
-    --c1:#00c9a7;
-    --d1:#005b44;
-
-    /*00c9a7 - matching gradient*/
-    --a2: #00c9a7;
-    --b2: #00b6bd;
-    --c2: #00a0c7;
-    --d2: #0088c2;
-    --e2: #496ead;
-    --f2: #68558d;
-
-    /*00c9a7 - Matching palette*/
-    --a3: #00c9a7;
-    --b3: #354b45;
-    --c3: #98b0a9;
-    --d3: #c2a3fd;
-    --e3: #8a6fc4;
-
-    /*#00c9a7 - skip shade gradient*/
-    --a4: #00c9a7;
-    --b4: #66D79B;
-    --c4: #9CE492;
-    --d4: #CDEE8F;
-
-    /*#00c9a7 - collective*/
-    --a5: #00c9a7;
-    --b5: #00A6AB;
-    --c5: #008FF1;
-
     --first: #2D4F2B;
     --second: #708A58;
     --third: #FFB823;
     --fourth: #FFF1CA;
+    overscroll-behavior:none;
 }
 
 body {
     margin:0px;
+    background:var(--first);
+    color:var(--fourth);
 }
 
 :is(p, ul, ol, a, button, img) {
-    font-size:2vw;
+    font-size:2.75vw;
 }
 
 h1 {
@@ -79,18 +32,52 @@ h4 {
     font-size:3vw;
 }
 
-.layer{
-    width:100vw;
-    position:absolute;
-    left:0px;
-    top:0px;
+.svg-layer{
+    position:relative;
     z-index:-1;
+    width:80vw;
+    top:1vw;
+    height: calc(450px * 100vw / 1100px);
+    left: calc((20vw) / 2);
+    .layer{
+        width:100%;
+        position:absolute;
+        z-index:-1;
+    }
 }
 
-#layer1 {
-    fill:red;
+.centered {
+    text-align:center;
 }
 
-:not(.layer) {
+.thickmargin {
+    padding:2vw;
+}
+
+.navbar {
+    width:100vw;
+    z-index: 1;
+}
+
+:not(.svglayers) {
     z-index:0;
+}
+
+.banner {
+    width:30vw;
+    padding-left:55vw;
+    text-align:left;
+    z-index:2;
+    top:5vw;
+    /* background-color:var(--first); */
+    display:none;
+    position:relative;
+    color:var(--third)
+}
+
+.content {
+    position:relative;
+    background:var(--first);
+    color:var(--fourth);
+    top: calc(400 * 100vw / 1100);
 }
