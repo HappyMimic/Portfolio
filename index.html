@@ -93,21 +93,23 @@
     <body>
         <div class="navbar">
             <button id="home" onclick="location.href='index.html'">Home</button>
-            <button id="trad">About Me</button>
-            <button id="holiday">Experience</button>
-            <button id="comfort">Projects</button>
+            <button id="about"onclick="location.href='about.html'">About Me</button>
+            <button id="techskill" onclick="location.href='techskill.html'">Technical Skills</button>
+            <button onclick="location.href='aspirations.html'"id="aspirations">Aspirations</button>
+            <button onclick="location.href='projects.html'"id="aspirations">Projects</button>
+            <button onclick="location.href='projects.html'"id="contact">Contact Page</button>
         </div>
         <div class="svg-layer">
-            <svg class="layer" id="layer3" viewBox="0, 51, 1100, 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100vw">
+            <svg class="layer" id="layer3" viewBox="0, 1, 1100, 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100vw">
                 <use x="0" y="0" href="#background" fill="var(--fourth)"/>
             </svg>
-            <svg class="layer" id="layer2" viewBox="0, 51, 1100, 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100vw">
+            <svg class="layer" id="layer2" viewBox="0, 1, 1100, 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100vw">
                 <use x="0" y="0" href="#midground" fill="var(--third)"/>
             </svg>
-            <svg class="layer" id="layer2" viewBox="0, 51, 1100, 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100vw">
+            <svg class="layer" id="layer2" viewBox="0, 1, 1100, 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100vw">
                 <use x="0" y="0" href="#mug" fill="var(--second)"/>
             </svg>
-            <svg class="layer" id="layer1" viewBox="0, 50, 1100, 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100vw">
+            <svg class="layer" id="layer1" viewBox="0, 0, 1100, 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100vw">
                 <use x="0" y="0" href="#window" fill="var(--first)"/>
             </svg>
         </div>   
@@ -115,10 +117,16 @@
             <h1>Hi, I'm <br>Miri Jones!</h1>
         </div>
         <div class="content"> 
-            <div class="thickmargin centered">
+            <div class="thickmargin centered" id="originality">
             <h2>Welcome to my portfolio!</h2>
-            <p>Hi! My name is Miriam Jones. I am currently a senior at Castle High School in Newburgh, IN. I love tabletop board and roleplaying games, hand crafts, and spreadsheets .</p>
+            <p>Hi! My name is Miriam Jones. I am currently a senior at Castle High School in Newburgh, IN. I love tabletop games, computer science, hand crafting, and helping my community. </p>
             </div>
+            <div class="centered">
+                <img id="profileimg" src="assets/MiriJones.jpg">
+            </div>
+        </div>
+        <div id="footer">
+            <button onclick="location.href='projects.html'"id="sources">Sources</button>
         </div>
     </body>
 </html>

@@ -8,12 +8,18 @@
 
 body {
     margin:0px;
+    padding:0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     background:var(--first);
     color:var(--fourth);
+    padding-bottom:5vh;
+    margin-bottom:5vh;
 }
 
 :is(p, ul, ol, a, button, img) {
     font-size:2.75vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:550;
 }
 
 h1 {
@@ -26,6 +32,10 @@ h2 {
 
 h3 {
     font-size:3.5vw;
+}
+
+svg {
+    z-index:-3;
 }
 
 h4 {
@@ -46,6 +56,21 @@ h4 {
     }
 }
 
+#profileimg {
+    height: 40vw;
+    object-fit:cover;
+    border-radius: 0px 2vw 2vw 0px;
+    border-left: var(--second) solid 2vw;
+}
+
+#originality {
+    height: 40vw;
+    padding:0px 1vw 0px 1vw;
+    border-radius: 2vw 0px 0px 2vw;
+    background:var(--fourth);
+    color:var(--first);
+}
+
 .centered {
     text-align:center;
 }
@@ -56,11 +81,31 @@ h4 {
 
 .navbar {
     width:100vw;
-    z-index: 1;
-}
-
-:not(.svglayers) {
-    z-index:0;
+    z-index: 8;
+    height:inherith;
+    max-height:10vh;
+    padding:0px;
+    margin:0px;
+    top:0px;
+    position:sticky;
+    background:var(--first);
+    padding-bottom:2vw;
+    padding-top:2vw;
+    justify-content:space-around;
+    display:flex;
+    button {
+        min-width:15vw;
+        background:var(--second);
+        color:var(--fourth);
+        border:0px;
+        height:8vh;
+        font-size:2.25vw;
+        border-radius:2vw;
+    }
+    button:hover {
+        background:var(--fourth);
+        color:var(--first);
+    }
 }
 
 .banner {
@@ -79,5 +124,28 @@ h4 {
     position:relative;
     background:var(--first);
     color:var(--fourth);
+    padding:5vw;
     top: calc(400 * 100vw / 1100);
+    display:flex;
+    justify-content:space-around;
+    align-content:center;
+}
+#footer{
+    position: relative;
+    top: calc(380 * 100vw / 1100);
+    padding:5vw;
+    padding-top:0px;
+    button {
+        position:absolute;
+        width:15vw;
+        background:var(--third);
+        color:var(--first);
+        border:0px;
+        border-radius:1vw;
+        left: calc((100vw - 15vw) / 2);
+    }
+    button:hover {
+        background:var(--fourth);
+        color:var(--first);
+    }
 }
