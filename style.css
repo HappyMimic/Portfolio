@@ -16,7 +16,7 @@ body {
     margin-bottom:5vh;
 }
 
-:is(p, ul, ol, a, button, img) {
+:is(p, ul, ol, a, button, input, img) {
     font-size:2.75vw;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight:550;
@@ -108,6 +108,10 @@ img {
         color:var(--fourth);
         margin:.5vw;
         border-radius:2vw;
+    }
+    input {
+        background:var(--first);
+        color:var(--fourth);
     }
 }
 
