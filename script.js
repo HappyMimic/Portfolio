@@ -2,6 +2,7 @@ let sources = document.querySelector("div#sources");
 let acs = document.querySelector("#access button");
 console.log(acs);
 let currentmode = "original";
+let ytextInput = document.querySelector("#name");
 
 // #region Load Data
 function getTxtFor(name, where) {
@@ -51,6 +52,23 @@ function LoadTxtData(txt, where) {
     });
 }
 // #endregion
+
+// #region Text Input
+ytextInput.addEventListener("focus", function() {
+    ytextInput.select();
+});
+
+ytextInput.addEventListener("keypress", function(event) {
+    // Submit is permanent
+    if (event.code === "Enter") {
+        if (!((ytextInput.value).includes("Name here")) && !((ytextInput.value).includes("Fill this out please."))) {
+            setTimeout(Input(),500);                
+        } else  {
+            ytextInput.value="Fill this out please.";
+        }
+    }
+});
+//#endregion
 
 function LoadMode() {
     if (localStorage.getItem('viewmode')) {

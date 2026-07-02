@@ -120,7 +120,7 @@ img {
         color:var(--first);
         border:0px;
         border-radius:1vw;
-        left: calc((100vw - 15vw) / 2);
+        left: calc((100vw - 20vw) / 2);
     }
     button:hover {
         background:var(--fourth);

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel='stylesheet' href="style.css">
+        <script defer src="script.js"></script>
+        <title>Contact Me | Miriam Jones' Portfolio</title>
+    </head>
+    <body>
+        <div class="navbar">
+            <button id="home" onclick="location.href='index.html'">Miri Jones</button>
+            <button id="about"onclick="location.href='about.html'">About Me</button>
+            <button id="techskill" onclick="location.href='techskill.html'">Technical Skills</button>
+            <button onclick="location.href='aspirations.html'"id="aspirations">Aspirations</button>
+            <button onclick="location.href='projects.html'"id="aspirations">Projects</button>
+            <button onclick="location.href='contact.html'"id="contact">Contact Page</button>
+        </div>   
+        <div class="main">
+            <div class="banner">
+                <h1>Contact</h1>
+            </div>
+            <div class="content" style="display:block;"> 
+                <div class="thickmargin" id="info">
+                    <h3>Info</h3>
+                    <ul>
+                        <li>Gmail: <a>miriam.j.jones.work@gmail.com</a></li>
+                        <li>Phone: <a>(812) 454-7009</a></li>
+                        <li>LinkedIn: <a href="https://www.linkedin.com/in/miriamjonesprofessional/?skipRedirect=true">Miriam (Miri) Jones</a></li>
+                        <li>GitHub: <a href="https://github.com/HappyMimic">Happy Mimic</a></li>
+                    </ul>
+                </div>
+                <h2 class="thickmargin" style="text-align:center;">Contact Form</h2>
+                <form class="thickmargin" id="sskills" style="text-align:center;">
+                    <h4>Name</h4>
+                    <input type="text" name="name" id="name" maxlength="50" minlength="2" autocomplete="off" value="Name here">
+                    <h4>Email</h4>
+                    <input type="text" name="email" id="email" maxlength="50" minlength="2" autocomplete="off" value="Email here">
+                    <h4>Message</h4>
+                    <input type="text" name="message" id="message" maxlength="1000" minlength="10" autocomplete="off" value="Message here">
+                </form>
+                <p id="thankmessage" style="display:none;text-align:center;">Thank you for submitting!</p>
+            </div>
+            <div id="footer">
+                <button onclick="document.querySelector('form').style.display='none';document.querySelector('#thankmessage').style.display='block';document.querySelector('#thankmessage').disabled='disabled';" id="submit">Submit</button>
+            </div>
+        </div>
+        <div id="access">
+            <button id="accessb"></button>
+        </div>
+    </body>
+</html>
