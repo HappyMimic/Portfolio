@@ -53,23 +53,6 @@ function LoadTxtData(txt, where) {
 }
 // #endregion
 
-// #region Text Input
-ytextInput.addEventListener("focus", function() {
-    ytextInput.select();
-});
-
-ytextInput.addEventListener("keypress", function(event) {
-    // Submit is permanent
-    if (event.code === "Enter") {
-        if (!((ytextInput.value).includes("Name here")) && !((ytextInput.value).includes("Fill this out please."))) {
-            setTimeout(Input(),500);                
-        } else  {
-            ytextInput.value="Fill this out please.";
-        }
-    }
-});
-//#endregion
-
 function LoadMode() {
     if (localStorage.getItem('viewmode')) {
         currentmode = localStorage.getItem('viewmode');
@@ -137,6 +120,7 @@ window.addEventListener("load", function() {
 
 //#region Accessibility
 acs.addEventListener("click", function() {
+    console.log("hello!")
     if (currentmode === "original") {
         currentmode = "dark";
     } else if (currentmode === "dark") {
