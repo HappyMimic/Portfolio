@@ -1,3 +1,6 @@
+Accessibility Setting Image <br>&mdash; Icon Archive
+https://www.iconarchive.com/show/osx-dock-replacement-icons-by-alienvalley/settings-icon.html#google_vignette
+
 W3 Schools
 https://www.w3schools.com/graphics/svg_circle.asp
 https://www.w3schools.com/css/css_external.asp
@@ -7,17 +10,121 @@ https://www.w3schools.com/css/css_pseudo_classes.asp
 https://www.w3schools.com/cssref/css_ref_pseudo_classes.php
 https://www.w3schools.com/cssref/sel_after.php
 https://www.w3schools.com/cssref/css_ref_pseudo_elements.php
+https://www.w3schools.com/cssref/func_drop-shadow.php
+https://www.w3schools.com/js/js_callback.asp
+https://www.w3schools.com/Css/css_font.asp
+https://www.w3schools.com/jsref/jsref_replace.asp
+https://www.w3schools.com/TAGS/tag_audio.asp
+https://www.w3schools.com/howto/howto_js_popup.asp
+https://www.w3schools.com/html/html_entities.asp
+https://www.w3schools.com/html/html_formatting.asp
+https://www.w3schools.com/jsref/met_his_back.asp
+https://www.w3schools.com/js/js_popup.asp
+https://www.w3schools.com/jsref/met_win_alert.asp
+https://www.w3schools.com/CSSref/func_invert.php
+https://www.w3schools.com/howto/howto_css_force_scrollbars.asp
+https://www.w3schools.com/cssref/css3_pr_flex-wrap.php
+https://www.w3schools.com/css/css_background_attachment.asp
+https://www.w3schools.com/css/css_background_repeat.asp
+https://www.w3schools.com/css/css_background_image.asp
+https://www.w3schools.com/css/css_background.asp
+https://www.w3schools.com/cssref/pr_font_weight.php
+https://www.w3schools.com/jsref/met_win_settimeout.asp
+https://www.w3schools.com/css/css_border.asp
+https://www.w3schools.com/js/js_typeof.asp
+https://www.w3schools.com/jsref/met_document_getelementbyid.asp
+https://www.w3schools.com/jsref/prop_img_naturalwidth.asp
+https://www.w3schools.com/cssref/css3_pr_background-size.php
+https://www.w3schools.com/jsref/jsref_getfullyear.asp
+https://www.w3schools.com/JS/js_async_fetch.asp
+https://www.w3schools.com/jsref/dom_obj_object.asp
+https://www.w3schools.com/Jsref/jsref_includes.asp
+https://www.w3schools.com/js/js_string_methods.asp
+https://www.w3schools.com/Js/js_logical.asp
+https://www.w3schools.com/js//js_events_keyboard.asp
+https://www.w3schools.com/jsref/met_element_setattribute.asp
+https://www.w3schools.com/html/html_form_attributes.asp
+https://www.w3schools.com/tags/att_popover.asp
+https://www.w3schools.com/Jsref/jsref_includes_array.asp
+https://www.w3schools.com/js/js_array_methods.asp
+https://www.w3schools.com/js/js_array_const.asp
+https://www.w3schools.com/js/js_function_invocation.asp
+https://www.w3schools.com/Tags/att_button_disabled.asp
+https://www.w3schools.com/tags/tag_meta.asp
+https://www.w3schools.com/cssref/pr_class_display.php
+https://www.w3schools.com/js/js_string_templates.asp
+https://www.w3schools.com/graphics/svg_scripting.asp
+https://www.w3schools.com/js/js_statements.asp
+https://www.w3schools.com/graphics/default.asp
+https://www.w3schools.com/graphics/svg_intro.asp
+https://www.w3schools.com/js/js_loop_for.asp
+https://www.w3schools.com/jsref/met_win_open.asp
+
+W3.org
+https://www.w3.org/TR/uievents/#event-type-DOMCharacterDataModified
 
 GeeksForGeeks
 https://www.geeksforgeeks.org/css/how-to-change-the-position-of-scrollbar-using-css/
+https://www.geeksforgeeks.org/css/how-to-change-image-color-in-css/
+https://www.geeksforgeeks.org/javascript/how-to-edit-a-javascript-alert-box-title/
+https://www.geeksforgeeks.org/javascript/how-to-remove-a-specific-item-from-an-array-in-javascript/
+https://www.geeksforgeeks.org/javascript/copy-array-items-into-another-array-in-javascript/
+https://www.geeksforgeeks.org/javascript/string-interpolation-in-javascript/
+https://www.geeksforgeeks.org/javascript/how-to-use-return-in-javascript/
+https://www.geeksforgeeks.org/javascript/javascript-program-to-get-the-dimensions-of-an-image/
+https://www.geeksforgeeks.org/javascript/how-to-add-hover-effects-to-a-button-in-javascript/
+https://www.geeksforgeeks.org/javascript/how-to-create-a-link-in-javascript/
+https://www.geeksforgeeks.org/html/how-to-link-javascript-file-to-a-separate-html-file/
+https://www.geeksforgeeks.org/javascript/console-in-javascript/
+https://www.geeksforgeeks.org/html/html-dom-style-left-property/
+https://www.geeksforgeeks.org/websites-apps/svg/
+https://www.geeksforgeeks.org/css/how-to-change-styles-of-svg-image-using-css/
+https://www.geeksforgeeks.org/html/svg-polyline-element/
+https://www.geeksforgeeks.org/html/svg-fediffuselighting-element/
+https://www.geeksforgeeks.org/html/svg-defs-element/
+https://www.geeksforgeeks.org/html/svg-clippath-element/
+https://www.geeksforgeeks.org/html/svg-a-element/
+https://www.geeksforgeeks.org/html/svg-animatetransform-element/
+https://www.geeksforgeeks.org/html/svg-animatemotion-element/
+https://www.geeksforgeeks.org/html/svg-animate-element/
+https://www.geeksforgeeks.org/html/svg-in-html/
+https://www.geeksforgeeks.org/html/svg-full-form/
+https://www.geeksforgeeks.org/html/html-svg-basics/
+https://www.geeksforgeeks.org/html/svg-introduction/
+https://www.geeksforgeeks.org/computer-networks/difference-between-url-and-uri/
 
 Mdn_
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@import
 https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/defs
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/Pseudo-classes
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorials/SVG_from_scratch/Getting_started
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/audio
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
+https://developer.mozilla.org/en-US/docs/Web/API/Translator/translate
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Events#specifications
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+https://developer.mozilla.org/en-US/docs/Web/API/Popover_API/Using
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/filter-function/hue-rotate
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/z-index
+https://developer.mozilla.org/en-US/docs/Web/API/Window/resize_event
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+https://developer.mozilla.org/en-US/docs/Web/API/Window#listening_for_events_on_window
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/naturalWidth#examples
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement/select
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/em
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorials/SVG_from_scratch/Basic_shapes#polyline
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorials/SVG_from_scratch/Paths
 
 CSS In Real Life
 https://css-irl.info/preventing-overscroll-bounce-with-css/
+
+CSS-Tricks
+https://css-tricks.com/html-for-subheadings-and-headings/
+https://css-tricks.com/using-svg/
 
 SVG Tutorial
 https://svg-tutorial.com/svg/arc
@@ -33,3 +140,108 @@ https://observablehq.com/@martien/svg-with-a-transparent-hole
 
 Stack overflow
 https://stackoverflow.com/questions/40676648/how-can-i-position-one-element-below-another
+https://stackoverflow.com/questions/9419263/how-to-play-audio
+https://stackoverflow.com/questions/1591401/javascript-jquery-check-broken-links
+https://stackoverflow.com/questions/1655065/redirecting-to-a-relative-url-in-javascript
+https://stackoverflow.com/questions/21518381/proper-way-to-wait-for-one-function-to-finish-before-continuing
+https://stackoverflow.com/questions/7381293/how-to-intercept-innerhtml-changes-in-javascript
+https://stackoverflow.com/questions/3715047/how-to-reload-a-page-using-javascript
+https://stackoverflow.com/questions/2099201/javascript-hard-refresh-of-current-page
+https://stackoverflow.com/questions/27421135/use-multiple-css-filters-at-the-same-time
+https://stackoverflow.com/questions/35788417/replace-a-color-with-another-color-in-an-image-with-css3
+https://stackoverflow.com/questions/18412487/text-in-p-tag-is-not-breaking-to-new-lines
+https://stackoverflow.com/questions/37458095/put-a-new-line-in-p-tag
+https://stackoverflow.com/questions/2836827/how-do-you-add-a-scroll-bar-to-a-div
+https://stackoverflow.com/questions/17756649/disable-the-horizontal-scroll
+https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array-in-javascript
+https://stackoverflow.com/questions/45512723/copy-array-of-objects-and-make-changes-without-modifying-original-array
+https://stackoverflow.com/questions/22125865/how-to-wait-until-a-predicate-condition-becomes-true-in-javascript
+https://stackoverflow.com/questions/79823838/wait-for-user-input
+https://stackoverflow.com/questions/45018338/javascript-fetch-api-how-to-save-output-to-variable-as-an-object-not-the-prom
+https://stackoverflow.com/questions/17136293/javascript-functions-run-automatically-vs-only-when-called
+https://stackoverflow.com/questions/14446447/how-can-i-read-a-local-text-file-in-the-browser
+https://stackoverflow.com/questions/72223022/how-do-i-prevent-my-web-page-from-being-resized-smaller-than-a-certain-size
+https://stackoverflow.com/questions/6096741/which-elements-will-load-first-in-an-html-page
+https://stackoverflow.com/questions/623172/how-to-get-the-image-size-height-width-using-javascript
+https://stackoverflow.com/questions/6348207/making-a-paragraph-in-html-contain-a-text-from-a-file
+https://stackoverflow.com/questions/63708276/how-to-change-font-size-of-embed-text
+https://stackoverflow.com/questions/7658549/importing-a-text-document-into-html
+https://stackoverflow.com/questions/4067469/selecting-all-text-in-html-text-input-when-clicked
+https://stackoverflow.com/questions/46725569/how-to-add-region-in-javascript-file-visual-studio
+https://stackoverflow.com/questions/7790811/how-do-i-put-variables-inside-javascript-strings
+https://stackoverflow.com/questions/6826260/how-does-plus-equal-work
+https://stackoverflow.com/questions/44510703/how-i-could-use-math-expression-in-svg-file
+https://stackoverflow.com/questions/12173549/matrix-maths-using-svg-api?rq=4
+https://stackoverflow.com/questions/14862410/render-mathjax-in-an-svg-file?rq=4
+https://stackoverflow.com/questions/25077677/is-it-possible-to-represent-a-formula-in-svg?rq=4
+https://stackoverflow.com/questions/25450600/what-does-the-svg-xmlns-attribute-do
+https://stackoverflow.com/questions/19484707/how-can-i-make-an-svg-scale-with-its-parent-container
+https://stackoverflow.com/questions/9529300/can-i-change-the-fill-color-of-an-svg-path-with-css
+
+Mail Trap
+https://mailtrap.io/blog/html-form-send-email/
+
+Form Init
+https://forminit.com/blog/html-form-send-email-without-server/
+
+Codeshack
+https://codeshack.io/html-entities-reference/
+
+Color Hunt
+https://colorhunt.co/
+
+Open Tutor Design School
+https://opentutordesignschool.com/how-to-apply-a-color-palette-to-your-design/
+
+Wall Art Inspiration
+https://www.wallartinspiration.com/color-palette-guide/
+
+Medium
+https://medium.com/@teamtechsis/timers-and-intervals-in-javascript-c5f4b3450486
+https://medium.com/@cssmonster007/how-to-stack-images-in-css-placing-one-image-below-another-dc14a94b9ecd
+
+Freeformatter.com
+https://www.freeformatter.com/html-entities.html
+
+jQuery API Documentation
+https://api.jquery.com/not/
+
+XJavascript.com
+https://www.xjavascript.com/blog/javascript-fetch-api-how-to-save-output-to-variable-as-an-object-not-the-promise/
+https://www.xjavascript.com/blog/how-do-i-load-the-contents-of-a-text-file-into-a-javascript-variable/#google_vignette
+https://www.xjavascript.com/blog/how-to-get-an-html-element-s-style-values-in-javascript/#google_vignette
+https://www.xjavascript.com/blog/passing-variable-through-javascript-from-one-html-page-to-another-page/
+
+Cloudinary
+https://cloudinary.com/guides/automatic-image-cropping/5-ways-to-crop-images-in-html-css
+
+CSS Script
+https://www.cssscript.com/dynamic-text-resizing-fit-text/#google_vignette
+
+HTML Cheatsheet.com
+https://htmlcheatsheet.com/svg/
+
+SitePoint
+https://www.sitepoint.com/css-with-svg/
+
+SVGMaker
+https://svgmaker.io/blogs/how-to-create-svg-files-complete-beginners-guide
+
+FreeCodeCamp.org
+https://www.freecodecamp.org/news/use-svg-images-in-css-html/
+
+Blind SVG
+https://www.blindsvg.com/pages/curves/
+
+NaN
+https://www.nan.fyi/svg-paths/bezier-curves
+
+CodeToFun
+https://codetofun.com/svg/path
+https://codetofun.com/svg/polyline
+
+Alvaro Trigo
+https://alvarotrigo.com/blog/change-css-javascript/#3.-change-css-stylesheets-dynamically
+
+ColorAny.com
+https://colorany.com/color-palettes/high-contrast-color-palettes/

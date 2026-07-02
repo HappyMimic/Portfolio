@@ -1,0 +1,179 @@
+:root {
+    --first: #2D4F2B;
+    --second: #708A58;
+    --third: #FFB823;
+    --fourth: #FFF1CA;
+    overscroll-behavior:none;
+}
+
+body {
+    margin:0px;
+    padding:0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background:var(--first);
+    color:var(--fourth);
+    padding-bottom:5vh;
+    margin-bottom:5vh;
+}
+
+:is(p, ul, ol, a, button, img) {
+    font-size:2.75vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:550;
+}
+
+h1 {
+    font-size:5.5vw;
+}
+
+h2 {
+    font-size:4.5vw;
+}
+
+h3 {
+    font-size:3.5vw;
+}
+
+svg {
+    z-index:-3;
+}
+
+h4 {
+    font-size:3vw;
+}
+
+.svg-layer{
+    position:relative;
+    z-index:-1;
+    width:80vw;
+    top:1vw;
+    height: calc(450px * 100vw / 1100px);
+    left: calc((20vw) / 2);
+    .layer{
+        width:100%;
+        position:absolute;
+        z-index:-1;
+    }
+}
+
+#profileimg {
+    height: 50vw;
+    max-width:45vw;
+    object-fit:cover;
+    border-radius: 0px 2vw 2vw 0px;
+    border-left: var(--second) solid 2vw;
+}
+
+#originality {
+    height: 50vw;
+    padding:0px 1vw 0px 1vw;
+    border-radius: 2vw 0px 0px 2vw;
+    background:var(--fourth);
+    color:var(--first);
+}
+
+.centered {
+    text-align:center;
+}
+
+.thickmargin {
+    padding:2vw;
+}
+
+.navbar {
+    width:100vw;
+    z-index: 8;
+    height:inherith;
+    max-height:10vh;
+    padding:0px;
+    margin:0px;
+    top:0px;
+    position:sticky;
+    background:var(--first);
+    padding-bottom:2vw;
+    padding-top:2vw;
+    justify-content:space-around;
+    display:flex;
+    button {
+        min-width:15vw;
+        background:var(--second);
+        color:var(--fourth);
+        border:0px;
+        height:8vh;
+        font-size:2.25vw;
+        border-radius:2vw;
+    }
+    #home {
+        background:var(--third);
+        color:var(--first);
+    }
+    #home:hover {
+        background:var(--fourth);
+        color:var(--third);
+    }
+    button:hover {
+        background:var(--fourth);
+        color:var(--first);
+    }
+}
+
+.banner {
+    text-align:left;
+    z-index:2;
+    top:5vw;
+    padding:0px 5vw;
+    position:initial;
+}
+
+.content {
+    position:relative;
+    background:var(--first);
+    color:var(--fourth);
+    padding:5vw;
+    top: calc(400 * 100vw / 1100);
+    display:flex;
+    justify-content:space-around;
+    align-content:center;
+}
+#footer{
+    position: relative;
+    top: calc(380 * 100vw / 1100);
+    padding:5vw;
+    padding-top:0px;
+    button {
+        position:absolute;
+        width:15vw;
+        background:var(--third);
+        color:var(--first);
+        border:0px;
+        border-radius:1vw;
+        left: calc((100vw - 15vw) / 2);
+    }
+    button:hover {
+        background:var(--fourth);
+        color:var(--first);
+    }
+}
+
+#access{
+    z-index:10;
+    position:fixed;
+    top: calc(100vh - 7.5vw);
+    left: calc(100vw - 7.5vw);
+    button {
+        height:5vw;
+        width:5vw;
+        border:0px;
+        border-radius:50%;
+        background: var(--second);
+        filter:drop-shadow(0 0 1vw var(--first));
+        background-image:url("assets/Alienvalley-Osx-Dock-Replacement-Settings.72.png");
+        background-size:75%;
+        background-position:center;
+        background-repeat:no-repeat;
+    }
+    button:hover {
+        background-color:var(--third);
+        filter:drop-shadow(0 0 .5vw var(--fourth));
+    }
+}

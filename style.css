@@ -42,37 +42,12 @@ h4 {
     font-size:3vw;
 }
 
-.svg-layer{
-    position:relative;
-    z-index:-1;
-    width:80vw;
-    top:1vw;
-    height: calc(450px * 100vw / 1100px);
-    left: calc((20vw) / 2);
-    .layer{
-        width:100%;
-        position:absolute;
-        z-index:-1;
-    }
-}
-
-#profileimg {
-    height: 40vw;
-    object-fit:cover;
-    border-radius: 0px 2vw 2vw 0px;
-    border-left: var(--second) solid 2vw;
-}
-
-#originality {
-    height: 40vw;
-    padding:0px 1vw 0px 1vw;
-    border-radius: 2vw 0px 0px 2vw;
-    background:var(--fourth);
-    color:var(--first);
-}
-
 .centered {
     text-align:center;
+}
+
+img {
+    max-height:100vh;
 }
 
 .thickmargin {
@@ -102,42 +77,45 @@ h4 {
         font-size:2.25vw;
         border-radius:2vw;
     }
+    #home {
+        background:var(--third);
+        color:var(--first);
+    }
+    #home:hover {
+        background:var(--fourth);
+        color:var(--third);
+    }
     button:hover {
         background:var(--fourth);
         color:var(--first);
     }
 }
 
-.banner {
-    width:30vw;
-    padding-left:55vw;
-    text-align:left;
-    z-index:2;
-    top:5vw;
-    /* background-color:var(--first); */
-    display:none;
-    position:relative;
-    color:var(--third)
-}
-
 .content {
     position:relative;
-    background:var(--first);
-    color:var(--fourth);
+    background:var(--fourth);
+    color:var(--first);
     padding:5vw;
-    top: calc(400 * 100vw / 1100);
     display:flex;
     justify-content:space-around;
     align-content:center;
+    border-radius:2vw;
+    a {
+        color:var(--third);
+    }
+    div {
+        background:var(--second);
+        color:var(--fourth);
+        margin:.5vw;
+        border-radius:2vw;
+    }
 }
+
 #footer{
-    position: relative;
-    top: calc(380 * 100vw / 1100);
     padding:5vw;
-    padding-top:0px;
     button {
         position:absolute;
-        width:15vw;
+        width:20vw;
         background:var(--third);
         color:var(--first);
         border:0px;
@@ -147,5 +125,32 @@ h4 {
     button:hover {
         background:var(--fourth);
         color:var(--first);
+    }
+}
+
+.main {
+    margin:3vw;
+}
+
+#access{
+    z-index:10;
+    position:fixed;
+    top: calc(100vh - 7.5vw);
+    left: calc(100vw - 7.5vw);
+    button {
+        height:5vw;
+        width:5vw;
+        border:0px;
+        border-radius:50%;
+        background: var(--second);
+        filter:drop-shadow(0 0 1vw var(--first));
+        background-image:url("assets/Alienvalley-Osx-Dock-Replacement-Settings.72.png");
+        background-size:75%;
+        background-position:center;
+        background-repeat:no-repeat;
+    }
+    button:hover {
+        background-color:var(--third);
+        filter:drop-shadow(0 0 .5vw var(--fourth));
     }
 }
